@@ -1,0 +1,1 @@
+java -jar target/_1225_cmjson-1.0-SNAPSHOT.jar "$@"
